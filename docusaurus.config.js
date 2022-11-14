@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'XR BLOG',
+  tagline: 'Keep learning',
   url: 'https://futurexr.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -59,10 +59,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'XR',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'XR Logo',
+          src: 'img/xr.jpg',
         },
         items: [
           {
