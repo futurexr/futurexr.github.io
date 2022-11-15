@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_programmer_re_owql.svg').default,
     description: (
       <>
-        As a technical geek, I want to record the technical content I have learned and provide it to you for reference or look forward to your guidance .
+        As a tech white, I want to record the technical content I have learned and provide it to you for reference or look forward to your guidance .
       </>
     ),
   },

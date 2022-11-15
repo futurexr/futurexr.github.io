@@ -104,7 +104,7 @@ const config = {
               },
               {
                 label: 'Taobao',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://shop222930782.taobao.com/?spm=a230r.7195193.1997079397.2.bdc427aaOvDafB',
               },
             ],
           },
