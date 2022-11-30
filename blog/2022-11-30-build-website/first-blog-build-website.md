@@ -1,12 +1,12 @@
 ---
-slug: first-blog-post
+slug: build-website
 title: 应用docusaurus及github-pages搭建网站
 authors:
   name: XR
   title: PM/PMO
   url: https://github.com/futurexr
-  image_url: https://avatars.githubusercontent.com/u/113611835?s=400&u=3e8d3816236fbdb5190d3bda17f52e3d7ffc5a4b&v=4
-tags: [github, docusaurus]
+  image_url: https://avatars.githubusercontent.com/u/113611835?v=4
+tags: [github, docusaurus, technology]
 ---
 
 # 为何突然想不开自己来搭建网站呢？
