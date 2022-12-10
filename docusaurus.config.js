@@ -66,10 +66,19 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
             position: 'left',
             label: 'Project',
+            to: '/docs/Project',
+          },
+          {
+            position: 'left',
+            label: 'Technology',
+            to: '/docs/Technology',
+          },
+          {
+            position: 'left',
+            label: 'Life',
+            to: '/docs/Life',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -87,7 +96,15 @@ const config = {
             items: [
               {
                 label: 'Project',
-                to: '/docs/intro',
+                to: '/docs/Project',
+              },
+              {
+                label: 'Technology',
+                to: '/docs/Technology',
+              },
+              {
+                label: 'Life',
+                to: '/docs/Life',
               },
             ],
           },
@@ -96,11 +113,11 @@ const config = {
             items: [
               {
                 label: 'Wechat',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://github.com/futurexr/futurexr.github.io',
               },
               {
                 label: 'TikTok',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://github.com/futurexr/futurexr.github.io',
               },
               {
                 label: 'Taobao',
